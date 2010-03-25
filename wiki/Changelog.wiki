@@ -1,4 +1,4 @@
-#labels changelog
+#labels Changelog
 #Eclipse Runner plugin change log
 
 = Release 1.0.0 =
