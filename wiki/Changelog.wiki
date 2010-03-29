@@ -1,11 +1,5 @@
 #labels Changelog,Featured
-#Eclipse Runner plugin change log
+=Eclipse Runner plugin changelog=
 
-= Release 1.0.0 =
-
-Feautures:
-  * TODO
-  * TODO
-  * TODO
-  * TODO
-  * TODO
+==Release 1.0.0==
+still to come ...
