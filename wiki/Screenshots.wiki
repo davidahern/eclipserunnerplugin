@@ -6,10 +6,10 @@
 ||After first Eclipse sturtup you'll see all your launch configurations in *Uncategorized* group||
 
 ||http://eclipserunnerplugin.googlecode.com/svn/wiki/img2.gif||
-||Add view to Java perspective|| 
+||Toggle default category|| 
 
 ||http://eclipserunnerplugin.googlecode.com/svn/wiki/img3.gif||
-||Add view to Java perspective|| 
+||Toggle bookmarked launch configurations.|| 
 
 ||http://eclipserunnerplugin.googlecode.com/svn/wiki/img4.gif||
-||Add view to Java perspective|| 
+||Change tree style to flat. Do not display launch configuration types.|| 
