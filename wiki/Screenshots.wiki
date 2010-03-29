@@ -1,6 +1,15 @@
 #labels Featured
-||TODO||
-||Add view to Java perspective|| 
+||http://eclipserunnerplugin.googlecode.com/svn/wiki/img0.gif||
+||Add *Eclipse Runner* view to Java perspective|| 
 
 ||http://eclipserunnerplugin.googlecode.com/svn/wiki/img1.gif||
 ||After first Eclipse sturtup you'll see all your launch configurations in *Uncategorized* group||
+
+||http://eclipserunnerplugin.googlecode.com/svn/wiki/img2.gif||
+||Add view to Java perspective|| 
+
+||http://eclipserunnerplugin.googlecode.com/svn/wiki/img3.gif||
+||Add view to Java perspective|| 
+
+||http://eclipserunnerplugin.googlecode.com/svn/wiki/img4.gif||
+||Add view to Java perspective|| 
