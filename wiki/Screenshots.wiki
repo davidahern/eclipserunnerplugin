@@ -3,7 +3,7 @@
 ||Add *Eclipse Runner* view to Java perspective|| 
 
 ||http://eclipserunnerplugin.googlecode.com/svn/wiki/img1.gif||
-||After first Eclipse sturtup you'll see all your launch configurations in *Uncategorized* group||
+||After first Eclipse startup you'll see all your launch configurations in *Uncategorized* group||
 
 ||http://eclipserunnerplugin.googlecode.com/svn/wiki/img2.gif||
 ||Toggle default category|| 
