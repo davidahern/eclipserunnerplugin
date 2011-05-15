@@ -1,5 +1,13 @@
 #labels Changelog,Featured
 =Eclipse Runner plugin changelog=
 
+==Release 1.2.0== (_in progress_)
+ * Easier way to assign configuration to groups
+
+==Release 1.1.0==
+ * Run/Debug configuration toggle button
+ * Project filter
+ * Project structure fixes
+
 ==Release 1.0.0==
-still to come ...
+Initial release
