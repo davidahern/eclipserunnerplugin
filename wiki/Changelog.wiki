@@ -1,7 +1,8 @@
 #labels Changelog,Featured
 =Eclipse Runner plugin changelog=
 
-==Release 1.2.0== (_in progress_)
+==Release 1.2.0==
+(*_in progress_*)
  * Easier way to assign configuration to groups
 
 ==Release 1.1.0==
