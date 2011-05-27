@@ -2,8 +2,9 @@
 =Eclipse Runner plugin changelog=
 
 ==Release 1.2.0==
-(*_in progress_*)
- * Easier way to assign configuration to groups
+ * "Move to" category button simplifies managing all launch configurations
+ * Drag 'n Drop improvements (can now drop to all type of nodes)
+ * Issue 4 fix
 
 ==Release 1.1.0==
  * Run/Debug configuration toggle button
